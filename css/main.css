@@ -792,6 +792,8 @@ ul.sub-menu {
 }
 
 .person-thumb img {
+    width: 480px;
+    height: 280px;
 }
 
 
