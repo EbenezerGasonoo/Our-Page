@@ -146,13 +146,13 @@
 
 .dzscalendar .theMonths, .dzscalendar .calendar-controls {
   width: 100%;
-  marign-top: 0; }
+  margin-top: 0; }
 
 .dzscalendar .theMonths {
   width: 100%;
   height: 151px;
   overflow: hidden;
-  marign-top: 0; }
+  margin-top: 0; }
 
 .dzscalendar .slideDescription {
   position: absolute;
